@@ -24,9 +24,12 @@ from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 
 from eva_queries.rag_queries import (
-    build_relevant_knowledge_body,
+    build_relevant_knowledge_body_pdf,
     build_rag_query,
     build_search_index,
+    load_slack_dump,
+    load_omscs_pdfs,
+    create_feature_extractor,
     start_llm_backend,
 )
 from utils.formatted_messages.welcome import MSG as WELCOME_MSG
@@ -53,9 +56,10 @@ queue_list = start_llm_backend(2)
 
 # Cursor of EvaDB.
 cursor = evadb.connect().cursor()
+create_feature_extractor(cursor)
+load_omscs_pdfs(cursor)
+load_slack_dump(cursor)
 build_search_index(cursor)
-
-
 #########################################################
 # Helper functions                                      #
 #########################################################
@@ -126,7 +130,7 @@ def handle_mention(body, say, logger):
         QUERY_LOGGER.info(f"{user_query}")
 
         if user_query:
-            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body(
+            knowledge_body, reference_pdf_name, reference_pageno_list = build_relevant_knowledge_body_pdf(
                 cursor, user_query, logger
             )
             conversation = build_rag_query(knowledge_body, user_query)
@@ -141,7 +145,7 @@ def handle_mention(body, say, logger):
 
                 # Attach reference
                 response += REF_MSG_HEADER
-                for i, pageno in enumerate(reference_pageno_list):
+                for _, pageno in enumerate(reference_pageno_list):
                     # TODO: change hardcoded url.
                     # response += f"<https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2023_orientation_document.pdf#page={pageno}|[page {pageno}]> "
                     response += f"[{reference_pdf_name}, page {pageno}] "
