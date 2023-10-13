@@ -1,0 +1,9 @@
+what to test:
+1) what is the knowledge body building
+    - use slack dump
+    - use omscs docs
+2) what is the reponse of the chat-bot
+    - on the queries we have
+3) what is the time taken for the reponse generation
+    - cprofile
+4) 
