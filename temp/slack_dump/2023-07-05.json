@@ -1,0 +1,135 @@
+[
+  {
+    "client_msg_id": "b0d391aa-edd9-45ae-a833-dd655438b54e",
+    "type": "message",
+    "user": "U03DME0S5LN",
+    "text": "\"Bonus for exceptionally well-written reports (up to +2 points)\", do I need to do something special or explain everything in my report well?",
+    "ts": "1688591389.000179",
+    "thread_ts": "1688591389.000179",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U88CQ775F",
+        "ts": "1688595678.515119"
+      }
+    ],
+    "latest_reply": "1688595678.515119",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MHn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\"Bonus for exceptionally well-written reports (up to +2 points)\", do I need to do something special or explain everything in my report well?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-02/3482811874577_bc1b92a5f2eeadb70143_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Maksimowicz",
+      "display_name": "Robert M",
+      "team": "T08LHBDJT",
+      "name": "rmaksimowicz3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U88CQ775F"
+    ]
+  },
+  {
+    "client_msg_id": "e96f34fd-607e-4e5d-b640-2ba4c774a325",
+    "type": "message",
+    "user": "U88CQ775F",
+    "text": "Please see \u003chttps://edstem.org/us/courses/39460/discussion/3240175\u003e",
+    "ts": "1688595678.515119",
+    "thread_ts": "1688591389.000179",
+    "attachments": [
+      {
+        "fallback": "Ed Discussion",
+        "id": 1,
+        "title": "Ed Discussion",
+        "title_link": "https://edstem.org/us/courses/39460/discussion/3240175",
+        "text": "Ed Discussion helps scale course communication in a beautiful and intuitive interface. Questions reach and benefit all students in the class. Less email, more time saved.",
+        "service_name": "edstem.org",
+        "service_icon": "https://edcdn.net/assets/apple-touch-icon.f2974ade.png",
+        "from_url": "https://edstem.org/us/courses/39460/discussion/3240175",
+        "original_url": "https://edstem.org/us/courses/39460/discussion/3240175",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U03DME0S5LN",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "catjam",
+        "count": 1,
+        "users": [
+          "U03DME0S5LN"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jJ=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please see "
+              },
+              {
+                "type": "link",
+                "url": "https://edstem.org/us/courses/39460/discussion/3240175",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2018-01-31/307860134180_28f0970abf8c679cf31f_72.jpg",
+      "first_name": "Steven",
+      "real_name": "Steven Bryant",
+      "display_name": "Steve Bryant",
+      "team": "T08LHBDJT",
+      "name": "steven.bryant",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

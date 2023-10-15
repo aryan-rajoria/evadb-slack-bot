@@ -1,0 +1,89 @@
+[
+  {
+    "type": "message",
+    "user": "U05EEBZ4E4F",
+    "text": "\u003c@U05EEBZ4E4F\u003e has joined the channel",
+    "ts": "1691389033.895759",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd063cdc1fdc914829cb7fec9939b58c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+      "first_name": "E",
+      "real_name": "E",
+      "display_name": "EG",
+      "team": "T08LHBDJT",
+      "name": "egoh31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05LGJWTV7G",
+    "text": "\u003c@U05LGJWTV7G\u003e has joined the channel",
+    "ts": "1691429752.595479",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-21/5776716248786_717af5737c608abc9869_72.jpg",
+      "first_name": "Xiushi",
+      "real_name": "Xiushi Shen",
+      "display_name": "Xiushi Shen",
+      "team": "T08LHBDJT",
+      "name": "xshen319",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02C82T9GUS",
+    "text": "\u003c@U02C82T9GUS\u003e has left the channel",
+    "ts": "1691434534.013079",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c37d8a92dbbcc1a0ebd92f408effcb6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+      "first_name": "Brandon",
+      "real_name": "Brandon Trude",
+      "display_name": "Brandon Trude",
+      "team": "T08LHBDJT",
+      "name": "btrude3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

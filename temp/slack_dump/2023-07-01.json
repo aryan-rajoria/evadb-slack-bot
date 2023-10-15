@@ -1,0 +1,92 @@
+[
+  {
+    "type": "message",
+    "user": "U032V6943KM",
+    "text": "\u003c@U032V6943KM\u003e has joined the channel",
+    "ts": "1688236753.617889",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/282dc8d2c985ff423579f863dee2d8fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Harish",
+      "real_name": "Harish Divakaran",
+      "display_name": "Harish Divakaran",
+      "team": "T08LHBDJT",
+      "name": "harish.divakaran",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7cbbeaac-0aa1-4c8f-8d5b-d84e28f02eac",
+    "type": "message",
+    "user": "U037RTBS799",
+    "text": "So annoying that I lost 10 points or 1.5% of my grade on P3 because of how PyCharm's import didnt align with how gradescope environment is run",
+    "ts": "1688243218.861159",
+    "thread_ts": "1688243218.861159",
+    "edited": {
+      "user": "U037RTBS799",
+      "ts": "1688243389.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U88CQ775F",
+        "ts": "1688275910.538279"
+      }
+    ],
+    "latest_reply": "1688275910.538279",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8exS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So annoying that I lost 10 points or 1.5% of my grade on P3 because of how PyCharm's import didnt align with how gradescope environment is run"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1a7a90b848b9fa04efb239b94eff7a6c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Arthur",
+      "real_name": "Arthur Vartanyan",
+      "display_name": "Arthur Vartanyan",
+      "team": "T08LHBDJT",
+      "name": "avartanyan3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U88CQ775F"
+    ]
+  }
+]

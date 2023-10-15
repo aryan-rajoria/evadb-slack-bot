@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U01J1QBAN8N",
+    "text": "\u003c@U01J1QBAN8N\u003e has left the channel",
+    "ts": "1690494128.278739",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-28/5800608139863_5736ada43ec100c79957_72.png",
+      "first_name": "Kyle",
+      "real_name": "Kyle Nakamura",
+      "display_name": "Kyle Nakamura",
+      "team": "T08LHBDJT",
+      "name": "knakamura9",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

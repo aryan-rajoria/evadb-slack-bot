@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "25f55dcb-c914-4466-8902-e238a0b3c12c",
+    "type": "message",
+    "user": "U045PKSK15H",
+    "text": "Great movie. A lot applicable not only to housing market but also to other broader tech field",
+    "ts": "1688091940.169339",
+    "thread_ts": "1688013631.926939",
+    "parent_user_id": "U03DME0S5LN",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JYJtR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great movie. A lot applicable not only to housing market but also to other broader tech field"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5f32079b5473f02da362fef6271b10fa.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "qlan20",
+      "real_name": "qlan20",
+      "display_name": "qlan20",
+      "team": "T08LHBDJT",
+      "name": "qlan8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

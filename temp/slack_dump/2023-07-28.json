@@ -1,0 +1,60 @@
+[
+  {
+    "type": "message",
+    "user": "U01JPJV82H3",
+    "text": "\u003c@U01JPJV82H3\u003e has left the channel",
+    "ts": "1690577579.478129",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-01-14/1631954182006_8b9edc6e3e35a80f3eb0_72.jpg",
+      "first_name": "",
+      "real_name": "Stephanie Reynolds",
+      "display_name": "Stephanie Reynolds",
+      "team": "T08LHBDJT",
+      "name": "sreynolds8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U023E6YJ58F",
+    "text": "\u003c@U023E6YJ58F\u003e has joined the channel",
+    "ts": "1690584971.566199",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4101346592691_724001cd86ecc7f9e851_72.jpg",
+      "first_name": "David",
+      "real_name": "David Pipes",
+      "display_name": "Pipes",
+      "team": "T08LHBDJT",
+      "name": "dpipes3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

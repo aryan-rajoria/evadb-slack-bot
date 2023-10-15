@@ -1,0 +1,60 @@
+[
+  {
+    "type": "message",
+    "user": "U05H8168ACV",
+    "text": "\u003c@U05H8168ACV\u003e has joined the channel",
+    "ts": "1690645730.784049",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-15/5743559171427_074144a533cc8637d54e_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Zeng",
+      "display_name": "ericz",
+      "team": "T08LHBDJT",
+      "name": "szeng74",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05KRT9TM9P",
+    "text": "\u003c@U05KRT9TM9P\u003e has joined the channel",
+    "ts": "1690658215.936539",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1414d85999f06e0ced5dfcbc04870fdf.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Shweta",
+      "real_name": "Shweta Gupta",
+      "display_name": "Shweta Gupta",
+      "team": "T08LHBDJT",
+      "name": "sgupta867",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

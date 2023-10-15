@@ -1,0 +1,70 @@
+[
+  {
+    "client_msg_id": "4a26ac42-7937-4661-a1be-ec8a01e8eb73",
+    "type": "message",
+    "user": "UHFB6GW2H",
+    "text": "The quiet period is over!  So sorry, I missed this earlier this week.  :slightly_smiling_face:. Please feel free to ask questions here and on Ed.  :)",
+    "ts": "1687975707.973279",
+    "edited": {
+      "user": "UHFB6GW2H",
+      "ts": "1687975716.000000"
+    },
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "catjam",
+        "count": 1,
+        "users": [
+          "U03DME0S5LN"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eIp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The quiet period is over!  So sorry, I missed this earlier this week.  "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". Please feel free to ask questions here and on Ed.  :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2019-08-15/727510997232_49e2047ad580bfc130cc_72.jpg",
+      "first_name": "Barbara",
+      "real_name": "Barbara Noble",
+      "display_name": "Barbara",
+      "team": "T08LHBDJT",
+      "name": "bnoble",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

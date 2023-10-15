@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U037GLBSZJR",
+    "text": "\u003c@U037GLBSZJR\u003e has left the channel",
+    "ts": "1690172094.535399",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a9bd9f8a520f1f147cb6aef4be441939.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Snigdha",
+      "real_name": "Snigdha Mishra",
+      "display_name": "Snigdha",
+      "team": "T08LHBDJT",
+      "name": "smishra351",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

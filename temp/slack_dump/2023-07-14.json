@@ -1,0 +1,31 @@
+[
+  {
+    "type": "message",
+    "user": "U05GH9LTK60",
+    "text": "\u003c@U05GH9LTK60\u003e has joined the channel",
+    "ts": "1689359714.031919",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-11/5582621745568_21f060e30ffc1cab4bfb_72.jpg",
+      "first_name": "Payaam",
+      "real_name": "Payaam Emami",
+      "display_name": "Payaam Emami",
+      "team": "T08LHBDJT",
+      "name": "pemami7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

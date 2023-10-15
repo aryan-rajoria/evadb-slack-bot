@@ -1,0 +1,1886 @@
+[
+  {
+    "type": "message",
+    "user": "U05KBE6J8HX",
+    "text": "\u003c@U05KBE6J8HX\u003e has joined the channel",
+    "ts": "1692238752.873829",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9235821e2ff62dbcca747abff4ed3700.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Eduardo",
+      "real_name": "Eduardo Javier Yepez Montenegro",
+      "display_name": "Eduardo",
+      "team": "T08LHBDJT",
+      "name": "emontenegro6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05MN0A131A",
+    "text": "\u003c@U05MN0A131A\u003e has joined the channel",
+    "ts": "1692242864.761339",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5756205462517_e46ce802982c366e86bb_72.jpg",
+      "first_name": "Omar",
+      "real_name": "Omar Solaiman",
+      "display_name": "Omar Solaiman",
+      "team": "T08LHBDJT",
+      "name": "osolaiman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05MJKMANGL",
+    "text": "\u003c@U05MJKMANGL\u003e has joined the channel",
+    "ts": "1692261001.163829",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/96a47b79adcefa9995a9bf65edbcc29a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "JeffreyT",
+      "real_name": "JeffreyT",
+      "display_name": "JeffreyT",
+      "team": "T08LHBDJT",
+      "name": "jeffreytjs1996",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U04JXUZLE7L",
+    "text": "\u003c@U04JXUZLE7L\u003e has joined the channel",
+    "ts": "1692263313.520119",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/abd50d2c4f62f8d8721b105ef99b8de1.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Mansi",
+      "real_name": "Mansi Nagpal",
+      "display_name": "Mansi Nagpal",
+      "team": "T08LHBDJT",
+      "name": "mnagpal6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "663033a8-7795-43c7-92cd-cf6c433470b8",
+    "type": "message",
+    "user": "U05EEBZ4E4F",
+    "text": "Will there be issues using an M1 mac with UTM booting up ubuntu on this course?",
+    "ts": "1692266780.230859",
+    "thread_ts": "1692266780.230859",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U88CQ775F",
+        "ts": "1692285544.483209"
+      },
+      {
+        "user": "U05EEBZ4E4F",
+        "ts": "1692327204.962979"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692327990.009439"
+      },
+      {
+        "user": "U05EEBZ4E4F",
+        "ts": "1692328164.994789"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692328611.752359"
+      },
+      {
+        "user": "U05EEBZ4E4F",
+        "ts": "1692328911.362859"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692329459.418239"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692329482.312319"
+      }
+    ],
+    "latest_reply": "1692329482.312319",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dkJk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will there be issues using an M1 mac with UTM booting up ubuntu on this course?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd063cdc1fdc914829cb7fec9939b58c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+      "first_name": "E",
+      "real_name": "E",
+      "display_name": "EG",
+      "team": "T08LHBDJT",
+      "name": "egoh31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05EEBZ4E4F",
+      "U88CQ775F"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U0292TM4AD8",
+    "text": "\u003c@U0292TM4AD8\u003e has joined the channel",
+    "ts": "1692273385.762529",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/cefea5b269e6e24efe0a43aaf9300ca6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Sakshi",
+      "real_name": "Sakshi Saraogi",
+      "display_name": "Sakshi",
+      "team": "T08LHBDJT",
+      "name": "ssaraogi31",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05G94CHEE9",
+    "text": "\u003c@U05G94CHEE9\u003e has joined the channel",
+    "ts": "1692276750.356159",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-10/5556095057314_7aa90ea8ffa392801210_72.jpg",
+      "first_name": "Haden",
+      "real_name": "Haden Sangree",
+      "display_name": "Haden",
+      "team": "T08LHBDJT",
+      "name": "hsangree3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DD31442B-036E-43C4-B6DE-FA73A40E0092",
+    "type": "message",
+    "user": "U88CQ775F",
+    "text": "We’ll say more about this during the first week. Your OS choices for running the course environment (we are very specific on Python and package versions) are Linux or macOS. So, if using macOS, you are not required to run Ubuntu on top of it.",
+    "ts": "1692285544.483209",
+    "thread_ts": "1692266780.230859",
+    "parent_user_id": "U05EEBZ4E4F",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5+p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We’ll"
+              },
+              {
+                "type": "text",
+                "text": " say more about this during the first week"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Your OS choices for running the course environment (we are very specific on Python and package versions) are Linux or macOS"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " So, if using macOS, you are not required to run Ubuntu on top of it"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2018-01-31/307860134180_28f0970abf8c679cf31f_72.jpg",
+      "first_name": "Steven",
+      "real_name": "Steven Bryant",
+      "display_name": "Steve Bryant",
+      "team": "T08LHBDJT",
+      "name": "steven.bryant",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05N7LZA6GG",
+    "text": "\u003c@U05N7LZA6GG\u003e has joined the channel",
+    "ts": "1692285854.889169",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-05/5871546714128_724ad35cb272ace13e78_72.png",
+      "first_name": "Pranith",
+      "real_name": "Pranith Srujan Roy",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "pmaddineni6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eb533666-c8b3-4287-a340-9eb21ab124ee",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "There are test scripts which will give you feedback as far as pass fail.  Submission tests are more thorough, but project descriptions will tell you what's required.  Grading will be done in the background and will not be available immediately.",
+    "ts": "1692287257.170699",
+    "thread_ts": "1692202107.786109",
+    "parent_user_id": "U03335XSC2W",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X+nkK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There are test scripts which will give you feedback as far as pass fail.  Submission tests are more thorough, but project descriptions will tell you what's required.  Grading will be done in the background and will not be available immediately."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c4974bdf-a3cc-409d-a05c-8f6ad752c553",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "There will be two places to submit code: A gradescope TESTING environment and a final SUBMISSION environment.  You can correct mistakes and resubmit an unlimited number of times in the TESTING environment.  The SUBMISSION environment will be limited.",
+    "ts": "1692287359.231529",
+    "thread_ts": "1692202107.786109",
+    "parent_user_id": "U03335XSC2W",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "riDD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There will be two places to submit code: A gradescope TESTING environment and a final SUBMISSION environment.  You can correct mistakes and resubmit an unlimited number of times in the TESTING environment.  The SUBMISSION environment will be limited."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0aaa047e-4cfb-4816-9cc0-b0bbba4b3303",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "We'll discuss this more in class.",
+    "ts": "1692287368.884219",
+    "thread_ts": "1692202107.786109",
+    "parent_user_id": "U03335XSC2W",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nRp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We'll discuss this more in class."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9ca2046-c612-4590-9d9e-28b7733fb1cf",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "QC is an interesting class, and not very demanding.  Just don't get TOO comfortable.  The exams are thorough.",
+    "ts": "1692289376.949009",
+    "thread_ts": "1692109737.796739",
+    "parent_user_id": "U05MDRDFEGN",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oh3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "QC is an interesting class, and not very demanding.  Just don't get TOO comfortable.  The exams are thorough."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05JK2WBGR5",
+    "text": "\u003c@U05JK2WBGR5\u003e has joined the channel",
+    "ts": "1692290905.507589",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-18/5779309840881_9ffaaa476d04e5b21663_72.jpg",
+      "first_name": "Aakash",
+      "real_name": "Aakash Patel",
+      "display_name": "Aakash Patel",
+      "team": "T08LHBDJT",
+      "name": "apatel484",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2a37b772-6f55-43d5-83ec-c931e09dbaf6",
+    "type": "message",
+    "user": "U05JF1X7NE8",
+    "text": "Do the Linux environment choices matter? Ubuntu vs. MX, Virtualbox vs VMware, etc. I've been running Ubuntu via VMware on Windows 11 and it sometimes feels a little sluggish. I have an i7-8750H/16GB ram/rtx2070 mobile",
+    "ts": "1692292437.655919",
+    "thread_ts": "1692292437.655919",
+    "reply_count": 19,
+    "replies": [
+      {
+        "user": "U05LUSB1K4P",
+        "ts": "1692292595.093429"
+      },
+      {
+        "user": "U05JF1X7NE8",
+        "ts": "1692292615.978819"
+      },
+      {
+        "user": "U05LUSB1K4P",
+        "ts": "1692292657.793819"
+      },
+      {
+        "user": "U05JF1X7NE8",
+        "ts": "1692292700.808329"
+      },
+      {
+        "user": "U05LUSB1K4P",
+        "ts": "1692292882.226949"
+      },
+      {
+        "user": "U02RRJAVADN",
+        "ts": "1692293238.869669"
+      },
+      {
+        "user": "U05LUSB1K4P",
+        "ts": "1692293349.746729"
+      },
+      {
+        "user": "U039QSAFLCR",
+        "ts": "1692293414.211249"
+      },
+      {
+        "user": "U039QSAFLCR",
+        "ts": "1692293427.753739"
+      },
+      {
+        "user": "U05MN0A131A",
+        "ts": "1692297350.447839"
+      },
+      {
+        "user": "U05MN0A131A",
+        "ts": "1692299396.756369"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692300171.267179"
+      },
+      {
+        "user": "U05LUSB1K4P",
+        "ts": "1692302902.873159"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692303549.503899"
+      },
+      {
+        "user": "U05JF1X7NE8",
+        "ts": "1692303731.085419"
+      },
+      {
+        "user": "U88CQ775F",
+        "ts": "1692391637.179869"
+      },
+      {
+        "user": "U05MU16T669",
+        "ts": "1692404076.307599"
+      },
+      {
+        "user": "U05MN0A131A",
+        "ts": "1692404120.259639"
+      },
+      {
+        "user": "U05MU16T669",
+        "ts": "1692404138.595369"
+      }
+    ],
+    "latest_reply": "1692404138.595369",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "elPqj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do the Linux environment choices matter? Ubuntu vs. MX, Virtualbox vs VMware, etc. I've been running Ubuntu via VMware on Windows 11 and it sometimes feels a little sluggish. I have an i7-8750H/16GB ram/rtx2070 mobile"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-16/5777314613104_15d8ad73ae9765c1b1c4_72.jpg",
+      "first_name": "Bo",
+      "real_name": "Bo",
+      "display_name": "Bo",
+      "team": "T08LHBDJT",
+      "name": "byang364",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 7,
+    "reply_users": [
+      "U02RRJAVADN",
+      "U039QSAFLCR",
+      "U05JF1X7NE8",
+      "U05LUSB1K4P",
+      "U05MN0A131A",
+      "U05MU16T669",
+      "U88CQ775F"
+    ]
+  },
+  {
+    "client_msg_id": "2e7265d5-cec6-4285-8167-4c4cbd309ec3",
+    "type": "message",
+    "user": "U05LUSB1K4P",
+    "text": "why are you running a VM for this....",
+    "ts": "1692292595.093429",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e=Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "why are you running a VM for this...."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c4c228c6e808c9efad5846f909f8010.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Jared",
+      "real_name": "Jared Solomon",
+      "display_name": "Jared S",
+      "team": "T08LHBDJT",
+      "name": "jsolomon64",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1f19256d-db23-4d2c-a4e2-bfb99eecfa28",
+    "type": "message",
+    "user": "U05JF1X7NE8",
+    "text": "as opposed to dual boot?",
+    "ts": "1692292615.978819",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QPcHM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "as opposed to dual boot?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-16/5777314613104_15d8ad73ae9765c1b1c4_72.jpg",
+      "first_name": "Bo",
+      "real_name": "Bo",
+      "display_name": "Bo",
+      "team": "T08LHBDJT",
+      "name": "byang364",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bb783b14-675e-49b0-b3a5-c89f20ea5502",
+    "type": "message",
+    "user": "U05LUSB1K4P",
+    "text": "just run it in windows 11 your base OS?",
+    "ts": "1692292657.793819",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Wo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just run it in windows 11 your base OS?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c4c228c6e808c9efad5846f909f8010.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Jared",
+      "real_name": "Jared Solomon",
+      "display_name": "Jared S",
+      "team": "T08LHBDJT",
+      "name": "jsolomon64",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4db928d0-14ac-4d8c-8373-8a24f7e0657a",
+    "type": "message",
+    "user": "U05JF1X7NE8",
+    "text": "The syllabus says to set up a Linux environment",
+    "ts": "1692292700.808329",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UcDk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The syllabus says to set up a Linux environment"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-16/5777314613104_15d8ad73ae9765c1b1c4_72.jpg",
+      "first_name": "Bo",
+      "real_name": "Bo",
+      "display_name": "Bo",
+      "team": "T08LHBDJT",
+      "name": "byang364",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "379938a4-b68a-4c9a-9c66-4db8598dea82",
+    "type": "message",
+    "user": "U05LUSB1K4P",
+    "text": "okay i guess we have to, kinda question the reason why that is necessary for the projects.",
+    "ts": "1692292882.226949",
+    "thread_ts": "1692292437.655919",
+    "edited": {
+      "user": "U05LUSB1K4P",
+      "ts": "1692292903.000000"
+    },
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k50zg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay i guess we have to, kinda question the reason why that is necessary for the projects."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c4c228c6e808c9efad5846f909f8010.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Jared",
+      "real_name": "Jared Solomon",
+      "display_name": "Jared S",
+      "team": "T08LHBDJT",
+      "name": "jsolomon64",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "68dcb6e0-b90b-4ea1-b26a-9a4a7b1840c1",
+    "type": "message",
+    "user": "U02RRJAVADN",
+    "text": "seemed like a vm was most useful in summer some projects had issues on osx / etc",
+    "ts": "1692293238.869669",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6/Sa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "seemed like a vm was most useful in summer some projects had issues on osx / etc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5015af79e17856015561bbfb632eac8b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Ian",
+      "real_name": "Ian",
+      "display_name": "Ian",
+      "team": "T08LHBDJT",
+      "name": "istalter3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50c9f90f-b91a-4188-a70e-4931cbf84452",
+    "type": "message",
+    "user": "U05LUSB1K4P",
+    "text": "I mean i hope we can use Mac or just windows vm just slows down the machine. unless its not taking that machines strength(CPU, GPU, memory)",
+    "ts": "1692293349.746729",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hDhG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I mean i hope we can use Mac or just windows vm just slows down the machine. unless its not taking that machines strength(CPU, GPU, memory)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c4c228c6e808c9efad5846f909f8010.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Jared",
+      "real_name": "Jared Solomon",
+      "display_name": "Jared S",
+      "team": "T08LHBDJT",
+      "name": "jsolomon64",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32efac55-6259-469b-b7ce-4ea310a7f2c6",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "Version of Linux shouldn't matter.  WSL with Ubuntu works fine if you're on a Windows machine",
+    "ts": "1692293414.211249",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U05GUR6CTL1",
+          "U05JF1X7NE8",
+          "U05MN0A131A"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U05K7U75MFF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FsRHc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Version of Linux shouldn't matter.  WSL with Ubuntu works fine if you're on a Windows machine"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97e3cd58-7ba3-434c-890a-2d136b1f1164",
+    "type": "message",
+    "user": "U039QSAFLCR",
+    "text": "There will be setup instructions on Ed when the class starts",
+    "ts": "1692293427.753739",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05LUSB1K4P",
+          "U05JF1X7NE8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vl6z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There will be setup instructions on Ed when the class starts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-05-23/3567168882706_d747ed875f293fa9a435_72.jpg",
+      "first_name": "Matt",
+      "real_name": "Matt Winzenried",
+      "display_name": "MattWinter",
+      "team": "T08LHBDJT",
+      "name": "mwinzenried3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e818a22-887d-44f0-a4e6-e70337286aa0",
+    "type": "message",
+    "user": "U05MN0A131A",
+    "text": "class site seems down but I have the site saved w/ the \"local environment\" page",
+    "ts": "1692297350.447839",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fpK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "class site seems down but I have the site saved w/ the \"local environment\" page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5756205462517_e46ce802982c366e86bb_72.jpg",
+      "first_name": "Omar",
+      "real_name": "Omar Solaiman",
+      "display_name": "Omar Solaiman",
+      "team": "T08LHBDJT",
+      "name": "osolaiman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "306e33bb-3e0b-4359-981f-dde6551f537a",
+    "type": "message",
+    "user": "U05MN0A131A",
+    "text": "Class website local environment html webpage + its images n' javascript. Site seems down but I saved this earlier to see about getting set up today/tomorro",
+    "ts": "1692299396.756369",
+    "thread_ts": "1692292437.655919",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U05JF1X7NE8",
+    "files": [
+      {
+        "id": "F05NPLR9A01",
+        "created": 1692297373,
+        "timestamp": 1692297373,
+        "name": "ml4t localenv_files.zip",
+        "title": "ml4t localenv_files.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U05MN0A131A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 331421,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05NPLR9A01-ml4t localenv_files.zip",
+        "url_private_download": "attachments/F05NPLR9A01-ml4t localenv_files.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://omscs-study.slack.com/files/U05MN0A131A/F05NPLR9A01/ml4t_localenv_files.zip",
+        "permalink_public": "https://slack-files.com/T08LHBDJT-F05NPLR9A01-1a7e941df9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AAO0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Class website local environment html webpage + its images n' javascript. Site seems down but I saved this earlier to see about getting set up today/tomorro"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5756205462517_e46ce802982c366e86bb_72.jpg",
+      "first_name": "Omar",
+      "real_name": "Omar Solaiman",
+      "display_name": "Omar Solaiman",
+      "team": "T08LHBDJT",
+      "name": "osolaiman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "306e33bb-3e0b-4359-981f-dde6551f537a",
+    "type": "message",
+    "user": "U05MN0A131A",
+    "text": "Class website local environment html webpage + its images n' javascript. Site seems down but I saved this earlier to see about getting set up today/tomorro",
+    "ts": "1692299396.756369",
+    "thread_ts": "1692292437.655919",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U05JF1X7NE8",
+    "files": [
+      {
+        "id": "F05NPLR9A01",
+        "created": 1692297373,
+        "timestamp": 1692297373,
+        "name": "ml4t localenv_files.zip",
+        "title": "ml4t localenv_files.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U05MN0A131A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 331421,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05NPLR9A01-ml4t localenv_files.zip",
+        "url_private_download": "attachments/F05NPLR9A01-ml4t localenv_files.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://omscs-study.slack.com/files/U05MN0A131A/F05NPLR9A01/ml4t_localenv_files.zip",
+        "permalink_public": "https://slack-files.com/T08LHBDJT-F05NPLR9A01-1a7e941df9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AAO0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Class website local environment html webpage + its images n' javascript. Site seems down but I saved this earlier to see about getting set up today/tomorro"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5756205462517_e46ce802982c366e86bb_72.jpg",
+      "first_name": "Omar",
+      "real_name": "Omar Solaiman",
+      "display_name": "Omar Solaiman",
+      "team": "T08LHBDJT",
+      "name": "osolaiman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d688dda-9e4c-4164-a695-8c605006b6b8",
+    "type": "message",
+    "user": "U05MN0A131A",
+    "ts": "1692299483.994619",
+    "files": [
+      {
+        "id": "F05NDME1GN8",
+        "created": 1692299481,
+        "timestamp": 1692299481,
+        "name": "ml4t setup.htm",
+        "title": "ml4t setup.htm",
+        "mimetype": "text/plain",
+        "image_exif_rotation": 0,
+        "filetype": "html",
+        "pretty_type": "HTML",
+        "user": "U05MN0A131A",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 275670,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05NDME1GN8-ml4t setup.htm",
+        "url_private_download": "attachments/F05NDME1GN8-ml4t setup.htm",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://omscs-study.slack.com/files/U05MN0A131A/F05NDME1GN8/ml4t_setup.htm",
+        "permalink_public": "https://slack-files.com/T08LHBDJT-F05NDME1GN8-8ccd8808da",
+        "edit_link": "https://omscs-study.slack.com/files/U05MN0A131A/F05NDME1GN8/ml4t_setup.htm/edit",
+        "preview": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en\" class=\"js\"\u003e\u003chead\u003e\r\n\u003cmeta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"\u003e\u003cstyle class=\"darkreader darkreader--fallback\" media=\"screen\"\u003e\u003c/style\u003e\u003cstyle class=\"darkreader darkreader--text\" media=\"screen\"\u003e\u003c/style\u003e\u003cstyle class=\"darkreader darkreader--invert\" media=\"screen\"\u003e.jfk-bubble.gtx-bubble, .captcheck_answer_label \u003e input + img, span#closed_text \u003e img[src^=\"https://www.gstatic.com/images/branding/googlelogo\"], span[data-href^=\"https://www.hcaptcha.com/\"] \u003e #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {\r\n    filter: invert(100%) hue-rotate(180deg) brightness(90%) sepia(30%) !important;\r\n}\u003c/style\u003e\u003cstyle class=\"darkreader darkreader--inline\" media=\"screen\"\u003e[data-darkreader-inline-bgcolor] {\r",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv\u003e\u003cpre\u003e\u003cspan class=\"cm-meta\"\u003e\u0026lt;!DOCTYPE html\u0026gt;\u003c/span\u003e\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003ehtml\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003elang\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;en\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003eclass\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;js\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003ehead\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003emeta\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003ehttp-equiv\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;content-type\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003econtent\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;text/html; charset=UTF-8\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003eclass\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;darkreader darkreader--fallback\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003emedia\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;screen\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;/\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003eclass\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;darkreader darkreader--text\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003emedia\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;screen\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;/\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003eclass\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;darkreader darkreader--invert\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003emedia\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;screen\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-qualifier\"\u003e.jfk-bubble\u003c/span\u003e\u003cspan class=\"cm-qualifier\"\u003e.gtx-bubble\u003c/span\u003e, \u003cspan class=\"cm-qualifier\"\u003e.captcheck_answer_label\u003c/span\u003e \u0026gt; \u003cspan class=\"cm-tag\"\u003einput\u003c/span\u003e + \u003cspan class=\"cm-tag\"\u003eimg\u003c/span\u003e, \u003cspan class=\"cm-tag\"\u003espan\u003c/span\u003e\u003cspan class=\"cm-builtin\"\u003e#closed_text\u003c/span\u003e \u0026gt; \u003cspan class=\"cm-tag\"\u003eimg\u003c/span\u003e[\u003cspan class=\"cm-tag\"\u003esrc\u003c/span\u003e^=\u003cspan class=\"cm-string\"\u003e\u0026quot;https://www.gstatic.com/images/branding/googlelogo\u0026quot;\u003c/span\u003e], \u003cspan class=\"cm-tag\"\u003espan\u003c/span\u003e[\u003cspan class=\"cm-tag\"\u003edata-href\u003c/span\u003e^=\u003cspan class=\"cm-string\"\u003e\u0026quot;https://www.hcaptcha.com/\u0026quot;\u003c/span\u003e] \u0026gt; \u003cspan class=\"cm-builtin\"\u003e#icon\u003c/span\u003e, \u003cspan class=\"cm-builtin\"\u003e#bit-notification-bar-iframe\u003c/span\u003e, ::\u003cspan class=\"cm-meta\"\u003e-webkit-\u003c/span\u003e\u003cspan class=\"cm-variable-3\"\u003ecalendar-picker-indicator\u003c/span\u003e {\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e    \u003cspan class=\"cm-property\"\u003efilter\u003c/span\u003e: \u003cspan class=\"cm-variable cm-callee\"\u003einvert\u003c/span\u003e(\u003cspan class=\"cm-number\"\u003e100%\u003c/span\u003e) \u003cspan class=\"cm-variable cm-callee\"\u003ehue-rotate\u003c/span\u003e(\u003cspan class=\"cm-number\"\u003e180deg\u003c/span\u003e) \u003cspan class=\"cm-variable cm-callee\"\u003ebrightness\u003c/span\u003e(\u003cspan class=\"cm-number\"\u003e90%\u003c/span\u003e) \u003cspan class=\"cm-variable cm-callee\"\u003esepia\u003c/span\u003e(\u003cspan class=\"cm-number\"\u003e30%\u003c/span\u003e) \u003cspan class=\"cm-keyword\"\u003e!important\u003c/span\u003e;\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e}\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;/\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026lt;\u003c/span\u003e\u003cspan class=\"cm-tag\"\u003estyle\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003eclass\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;darkreader darkreader--inline\u0026quot;\u003c/span\u003e \u003cspan class=\"cm-attribute\"\u003emedia\u003c/span\u003e=\u003cspan class=\"cm-string\"\u003e\u0026quot;screen\u0026quot;\u003c/span\u003e\u003cspan class=\"cm-tag cm-bracket\"\u003e\u0026gt;\u003c/span\u003e[\u003cspan class=\"cm-tag\"\u003edata-darkreader-inline-bgcolor\u003c/span\u003e] {\u003c/pre\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 663,
+        "lines_more": 658,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5756205462517_e46ce802982c366e86bb_72.jpg",
+      "first_name": "Omar",
+      "real_name": "Omar Solaiman",
+      "display_name": "Omar Solaiman",
+      "team": "T08LHBDJT",
+      "name": "osolaiman3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6ADD930B-9464-4AE2-A685-0341302B07CC",
+    "type": "message",
+    "user": "U88CQ775F",
+    "text": "Adding to Matt’s comments, we’ll have a few setup videos available in Canvas once the term starts on Monday. They are a good way to set things up *and* validate that things are set up properly. ",
+    "ts": "1692300171.267179",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U05MN0A131A"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g2r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Adding to Matt’s comments, "
+              },
+              {
+                "type": "text",
+                "text": "we’ll"
+              },
+              {
+                "type": "text",
+                "text": " have a few setup videos available in Canvas once the term starts on Monday"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " They are a good way to set things up "
+              },
+              {
+                "type": "text",
+                "text": "and",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " validate that things are set up properly"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2018-01-31/307860134180_28f0970abf8c679cf31f_72.jpg",
+      "first_name": "Steven",
+      "real_name": "Steven Bryant",
+      "display_name": "Steve Bryant",
+      "team": "T08LHBDJT",
+      "name": "steven.bryant",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05JK3HNENM",
+    "text": "\u003c@U05JK3HNENM\u003e has joined the channel",
+    "ts": "1692302371.075309",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-17/5783252150512_d5f4cb12a6e85745fbd8_72.jpg",
+      "first_name": "Sagnik",
+      "real_name": "Sagnik Sinha",
+      "display_name": "Sagnik Sinha",
+      "team": "T08LHBDJT",
+      "name": "ssinha348",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ed46f861-5bdd-4032-a101-c0949b4248e6",
+    "type": "message",
+    "user": "U05LUSB1K4P",
+    "text": "\u003c@U88CQ775F\u003e do we have to work in Linux?\nwas planning on ether using my personal mac or my work pc",
+    "ts": "1692302902.873159",
+    "thread_ts": "1692292437.655919",
+    "edited": {
+      "user": "U05LUSB1K4P",
+      "ts": "1692302928.000000"
+    },
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8wT7r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U88CQ775F"
+              },
+              {
+                "type": "text",
+                "text": " do we have to work in Linux?\nwas planning on ether using my personal mac or my work pc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4c4c228c6e808c9efad5846f909f8010.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "Jared",
+      "real_name": "Jared Solomon",
+      "display_name": "Jared S",
+      "team": "T08LHBDJT",
+      "name": "jsolomon64",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C1C3DF31-408F-4135-9566-96E4EB108A97",
+    "type": "message",
+    "user": "U88CQ775F",
+    "text": "Linux, macOS, or Linux on Windows (e.g., Virtual Machine, Docker, WSL2). ",
+    "ts": "1692303549.503899",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E/ghz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Linux, macOS, or Linux on Windows (e.g., Virtual Machine, Docker, WSL2)"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2018-01-31/307860134180_28f0970abf8c679cf31f_72.jpg",
+      "first_name": "Steven",
+      "real_name": "Steven Bryant",
+      "display_name": "Steve Bryant",
+      "team": "T08LHBDJT",
+      "name": "steven.bryant",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b791f42-dd16-42dd-b57a-b57491e9aa83",
+    "type": "message",
+    "user": "U05JF1X7NE8",
+    "text": "I already set up Ubuntu + VMware and started on the projects from the summer syllabus, will the work be useful or will the projects/ML4T environment change?",
+    "ts": "1692303731.085419",
+    "thread_ts": "1692292437.655919",
+    "parent_user_id": "U05JF1X7NE8",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qODm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I already set up Ubuntu + VMware and started on the projects from the summer syllabus, will the work be useful or will the projects/ML4T environment change?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-16/5777314613104_15d8ad73ae9765c1b1c4_72.jpg",
+      "first_name": "Bo",
+      "real_name": "Bo",
+      "display_name": "Bo",
+      "team": "T08LHBDJT",
+      "name": "byang364",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "USB9M2Q86",
+    "text": "\u003c@USB9M2Q86\u003e has joined the channel",
+    "ts": "1692307882.017419",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/370bdf902263b078a2fec1eab465477f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "",
+      "real_name": "Dennis Liu",
+      "display_name": "Dennis Liu",
+      "team": "T08LHBDJT",
+      "name": "dliu330",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05LB9CM9T2",
+    "text": "\u003c@U05LB9CM9T2\u003e has joined the channel",
+    "ts": "1692316591.584779",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-31/5653084776647_3d85c909a9477677ca1e_72.png",
+      "first_name": "Savannah",
+      "real_name": "Savannah S",
+      "display_name": "Savannah S",
+      "team": "T08LHBDJT",
+      "name": "ssimmons70",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

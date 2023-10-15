@@ -1,0 +1,405 @@
+[
+  {
+    "client_msg_id": "a9b0244c-0827-4036-9c72-97d3a891b33f",
+    "type": "message",
+    "user": "UFURMN16K",
+    "text": "So how did P2 treat you all?  Learn anything?  How could you apply it to future projects?",
+    "ts": "1694635074.415309",
+    "thread_ts": "1694635074.415309",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U05MDLSD7BM",
+        "ts": "1694635335.368829"
+      },
+      {
+        "user": "U05MDLSD7BM",
+        "ts": "1694635364.860059"
+      },
+      {
+        "user": "UFURMN16K",
+        "ts": "1694635677.362289"
+      },
+      {
+        "user": "U05M5K879KR",
+        "ts": "1694638902.787289"
+      },
+      {
+        "user": "U05M5K879KR",
+        "ts": "1694638976.184159"
+      },
+      {
+        "user": "UFURMN16K",
+        "ts": "1694644500.499449"
+      },
+      {
+        "user": "U05M5PD1UQP",
+        "ts": "1694660349.633839"
+      },
+      {
+        "user": "U05JD8YPPML",
+        "ts": "1694714326.635359"
+      }
+    ],
+    "latest_reply": "1694714326.635359",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jfej",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So how did P2 treat you all?  Learn anything?  How could you apply it to future projects?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-23/2417125985588_673821b53c40f88d44b2_72.jpg",
+      "first_name": "Jeff",
+      "real_name": "Jeff Richley",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "jrichley3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U05JD8YPPML",
+      "U05M5K879KR",
+      "U05M5PD1UQP",
+      "U05MDLSD7BM",
+      "UFURMN16K"
+    ]
+  },
+  {
+    "client_msg_id": "6515bfb0-4aa8-4251-865f-10bd70bb2e61",
+    "type": "message",
+    "user": "U05MDLSD7BM",
+    "text": "I learned to validate my results with the autograder as soon as I get a chance.",
+    "ts": "1694635335.368829",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ICpq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I learned to validate my results with the autograder as soon as I get a chance."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-11/5755275998032_16a33c1a9f2dcbba63ec_72.png",
+      "first_name": "Sofia",
+      "real_name": "Sofia Muller",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "sofia.muller",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a292dbdc-1cb5-4725-bcf3-8ec8d3eb2d9a",
+    "type": "message",
+    "user": "U05MDLSD7BM",
+    "text": "I thought I was all done until I ran it and realized that I had done it all wrong.",
+    "ts": "1694635364.860059",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IbR4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I thought I was all done until I ran it and realized that I had done it all wrong."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-11/5755275998032_16a33c1a9f2dcbba63ec_72.png",
+      "first_name": "Sofia",
+      "real_name": "Sofia Muller",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "sofia.muller",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c4ad2d2-81fa-4de7-82c9-e4713b6cc823",
+    "type": "message",
+    "user": "UFURMN16K",
+    "text": "The tests for each project?",
+    "ts": "1694635677.362289",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yqY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The tests for each project?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-23/2417125985588_673821b53c40f88d44b2_72.jpg",
+      "first_name": "Jeff",
+      "real_name": "Jeff Richley",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "jrichley3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "caf62782-ebfe-46c7-83a5-ae94ffddcf46",
+    "type": "message",
+    "user": "U05M5K879KR",
+    "text": "P2? What P2? P3 is consuming 100% of my brain… the past doesn’t exist, the future doesn’t exist.. only P3 exists :smile:",
+    "ts": "1694638902.787289",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 4,
+        "users": [
+          "UFURMN16K",
+          "U05G94CHEE9",
+          "U05GUR6CTL1",
+          "U05MYHLG133"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Aw77",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "P2? What P2? P3 is consuming 100% of my brain… the past doesn’t exist, the future doesn’t exist.. only P3 exists "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-24/5821684871328_3974a73d18b56d578958_72.jpg",
+      "first_name": "Lakshmi",
+      "real_name": "Lakshmi Yendapalli",
+      "display_name": "Lakshmi Yendapalli",
+      "team": "T08LHBDJT",
+      "name": "ryendapalli3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1a985675-f0d9-4ec0-a876-ce7c1f511742",
+    "type": "message",
+    "user": "U05M5K879KR",
+    "text": "Jokes apart.. I was curious why we are using simple returns for calculating sharpe ratio, instead of using log returns as done in the textbook.. using log returns for the sharpe ratio would also optimize for cumulative returns.. plus it seems like log returns are the industry standard right?",
+    "ts": "1694638976.184159",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "elmH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Jokes apart.. I was curious why we are using simple returns for calculating sharpe ratio, instead of using log returns as done in the textbook.. using log returns for the sharpe ratio would also optimize for cumulative returns.. plus it seems like log returns are the industry standard right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-24/5821684871328_3974a73d18b56d578958_72.jpg",
+      "first_name": "Lakshmi",
+      "real_name": "Lakshmi Yendapalli",
+      "display_name": "Lakshmi Yendapalli",
+      "team": "T08LHBDJT",
+      "name": "ryendapalli3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "691b12da-38cf-4e63-9008-1ee21f142a82",
+    "type": "message",
+    "user": "UFURMN16K",
+    "text": "The projects have greatly simplified many pieces of what you would do in a production system.  We are more trying to teach the basics of what is going on.  If you were to join an organization doing this, you would certainly do things a bit different.",
+    "ts": "1694644500.499449",
+    "thread_ts": "1694635074.415309",
+    "parent_user_id": "UFURMN16K",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05M5K879KR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OUH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The projects have greatly simplified many pieces of what you would do in a production system.  We are more trying to teach the basics of what is going on.  If you were to join an organization doing this, you would certainly do things a bit different."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-23/2417125985588_673821b53c40f88d44b2_72.jpg",
+      "first_name": "Jeff",
+      "real_name": "Jeff Richley",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "jrichley3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

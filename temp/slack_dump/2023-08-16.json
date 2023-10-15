@@ -1,0 +1,693 @@
+[
+  {
+    "type": "message",
+    "user": "U05K33697SR",
+    "text": "\u003c@U05K33697SR\u003e has joined the channel",
+    "ts": "1692147994.915699",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-11/5717133819703_47d2d1e46535e9739a89_72.jpg",
+      "first_name": "Caleb",
+      "real_name": "Caleb M Cook",
+      "display_name": "Caleb M Cook",
+      "team": "T08LHBDJT",
+      "name": "caleb.cook",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U04GNAK9SVD",
+    "text": "\u003c@U04GNAK9SVD\u003e has left the channel",
+    "ts": "1692169741.573769",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-26/5317819108247_621468a710559eb2e8ff_72.png",
+      "first_name": "Christopher",
+      "real_name": "Christopher Marchant",
+      "display_name": "Christopher Marchant",
+      "team": "T08LHBDJT",
+      "name": "cmarchant7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05NPNY3XUG",
+    "text": "\u003c@U05NPNY3XUG\u003e has joined the channel",
+    "ts": "1692169822.844319",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/85d0998628753f47dd4e7747f6cf9ff8.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "Sridhar",
+      "real_name": "Sridhar Jajoo",
+      "display_name": "Sridhar Jajoo",
+      "team": "T08LHBDJT",
+      "name": "sjajoo6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05N05ED81H",
+    "text": "\u003c@U05N05ED81H\u003e has joined the channel",
+    "ts": "1692172413.495759",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c265192ffab6aaa70ed257392bbea405.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Hafumi",
+      "real_name": "Hafumi Nishi",
+      "display_name": "Hafumi Nishi",
+      "team": "T08LHBDJT",
+      "name": "hafumi.nishi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05HU6N596E",
+    "text": "\u003c@U05HU6N596E\u003e has joined the channel",
+    "ts": "1692190489.206709",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/731ad70dec5b1d8d3e6499a3d598f3bc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Owen",
+      "real_name": "Owen Churchill",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "ochurchill3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe65cd66-b3a7-44eb-af1a-84f076f7caff",
+    "type": "message",
+    "user": "U05M25BMFCP",
+    "text": "Hello,\nI have registered for ML4T as the first course in OMSCS. Due to prior commitments, I won’t have internet access during the first week of September. Since we can submit assignments early, I’m planning to get a head start before the course begins. Is there something I can do to kickstart before the first day of class?\nThanks in advance. Looking forward to the course!",
+    "ts": "1692194275.529829",
+    "thread_ts": "1692194275.529829",
+    "edited": {
+      "user": "U05M25BMFCP",
+      "ts": "1692194952.000000"
+    },
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05M25BMFCP",
+        "ts": "1692194422.991279"
+      },
+      {
+        "user": "U05MDLSD7BM",
+        "ts": "1692198197.699549"
+      },
+      {
+        "user": "UFURMN16K",
+        "ts": "1692203189.717519"
+      },
+      {
+        "user": "U05KDU4DQ6T",
+        "ts": "1692203204.465809"
+      },
+      {
+        "user": "U05M25BMFCP",
+        "ts": "1692206015.967579"
+      },
+      {
+        "user": "U05JF1X7NE8",
+        "ts": "1692223552.644179"
+      }
+    ],
+    "latest_reply": "1692223552.644179",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZIwa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello,\nI have registered for ML4T as the first course in OMSCS. Due to prior commitments, I won’t have internet access during the first week of September. Since we can submit assignments early, I’m planning to get a head start before the course begins. Is there something I can do to kickstart before the first day of class?\nThanks in advance. Looking forward to the course!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-19/5760630415462_c0b7c77ec5365f383479_72.jpg",
+      "first_name": "Sahil",
+      "real_name": "Sahil Jain",
+      "display_name": "Sahil Jain",
+      "team": "T08LHBDJT",
+      "name": "sjain705",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U05JF1X7NE8",
+      "U05KDU4DQ6T",
+      "U05M25BMFCP",
+      "U05MDLSD7BM",
+      "UFURMN16K"
+    ]
+  },
+  {
+    "client_msg_id": "e8c01efc-2928-4eb8-b160-fd4a079b773f",
+    "type": "message",
+    "user": "U05M25BMFCP",
+    "text": "I am already familiar with Python, Numpy, Pandas and Matplotlib.",
+    "ts": "1692194422.991279",
+    "thread_ts": "1692194275.529829",
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Eo+b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am already familiar with Python, Numpy, Pandas and Matplotlib."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-19/5760630415462_c0b7c77ec5365f383479_72.jpg",
+      "first_name": "Sahil",
+      "real_name": "Sahil Jain",
+      "display_name": "Sahil Jain",
+      "team": "T08LHBDJT",
+      "name": "sjain705",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05MDLSD7BM",
+    "text": "\u003c@U05MDLSD7BM\u003e has joined the channel",
+    "ts": "1692198029.789559",
+    "subtype": "channel_join",
+    "reactions": [
+      {
+        "name": "wave",
+        "count": 3,
+        "users": [
+          "U05MDLSD7BM",
+          "U05GUR6CTL1",
+          "U05KDU4DQ6T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-11/5755275998032_16a33c1a9f2dcbba63ec_72.png",
+      "first_name": "Sofia",
+      "real_name": "Sofia Muller",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "sofia.muller",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a0404422-91a2-4605-b70f-8015d069e412",
+    "type": "message",
+    "user": "U05MDLSD7BM",
+    "text": "This is the most useful I’ve found in understanding what to expect: \u003chttp://lucylabs.gatech.edu/ml4t/fall2022/\u003e",
+    "ts": "1692198197.699549",
+    "thread_ts": "1692194275.529829",
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U05KDU4DQ6T",
+          "U05M25BMFCP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kX1Cb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is the most useful I’ve found in understanding what to expect: "
+              },
+              {
+                "type": "link",
+                "url": "http://lucylabs.gatech.edu/ml4t/fall2022/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-11/5755275998032_16a33c1a9f2dcbba63ec_72.png",
+      "first_name": "Sofia",
+      "real_name": "Sofia Muller",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "sofia.muller",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U03335XSC2W",
+    "text": "\u003c@U03335XSC2W\u003e has joined the channel",
+    "ts": "1692201848.130759",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-14/4794608397733_a24b2f04c2be876fbf9b_72.png",
+      "first_name": "Alexandra",
+      "real_name": "Alexandra",
+      "display_name": "Alexandra",
+      "team": "T08LHBDJT",
+      "name": "aplamenac3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9538F7FE-E3DF-4EF3-B662-27DF17F11CD9",
+    "type": "message",
+    "user": "U03335XSC2W",
+    "text": "I see the class has gradescope. Are projects autograded when you submit, and is it possible to correct mistakes and resubmit?",
+    "ts": "1692202107.786109",
+    "thread_ts": "1692202107.786109",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U039QSAFLCR",
+        "ts": "1692287257.170699"
+      },
+      {
+        "user": "U039QSAFLCR",
+        "ts": "1692287359.231529"
+      },
+      {
+        "user": "U039QSAFLCR",
+        "ts": "1692287368.884219"
+      }
+    ],
+    "latest_reply": "1692287368.884219",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lAP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see the class has gradescope. Are projects autograded when you submit, and is it possible to correct mistakes and resubmit?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-02-14/4794608397733_a24b2f04c2be876fbf9b_72.png",
+      "first_name": "Alexandra",
+      "real_name": "Alexandra",
+      "display_name": "Alexandra",
+      "team": "T08LHBDJT",
+      "name": "aplamenac3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U039QSAFLCR"
+    ]
+  },
+  {
+    "client_msg_id": "2a8fd5a8-a7cf-4125-ad15-f82fffa54cad",
+    "type": "message",
+    "user": "UFURMN16K",
+    "text": "Take a look at the summer one, it is the one we just finished up.  It shouldn't change a ton, but definitely make sure to review the Fall one when it comes out.",
+    "ts": "1692203189.717519",
+    "thread_ts": "1692194275.529829",
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VImGV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Take a look at the summer one, it is the one we just finished up.  It shouldn't change a ton, but definitely make sure to review the Fall one when it comes out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-23/2417125985588_673821b53c40f88d44b2_72.jpg",
+      "first_name": "Jeff",
+      "real_name": "Jeff Richley",
+      "display_name": "",
+      "team": "T08LHBDJT",
+      "name": "jrichley3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21e05413-b3d6-4249-a510-4003e0bef70a",
+    "type": "message",
+    "user": "U05KDU4DQ6T",
+    "text": "\u0026gt; This is the most useful I’ve found in understanding what to expect: \u003chttp://lucylabs.gatech.edu/ml4t/fall2022/\u003e\nWe should pin this.",
+    "ts": "1692203204.465809",
+    "thread_ts": "1692194275.529829",
+    "edited": {
+      "user": "U05KDU4DQ6T",
+      "ts": "1692203289.000000"
+    },
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R6i",
+        "elements": [
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"This is the most useful I\\u2019ve found in understanding what to expect: \"},{\"type\":\"link\",\"url\":\"http:\\/\\/lucylabs.gatech.edu\\/ml4t\\/fall2022\\/\"}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We should pin this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-01/5674407677939_88108821b1831c9a0f42_72.jpg",
+      "first_name": "Patrick",
+      "real_name": "Patrick Gregory",
+      "display_name": "Patrick Gregory",
+      "team": "T08LHBDJT",
+      "name": "pgregory7_unofficial_",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9cef19cf-9eb5-42ac-a600-81c2acdd8b44",
+    "type": "message",
+    "user": "U05M25BMFCP",
+    "text": "Thanks!",
+    "ts": "1692206015.967579",
+    "thread_ts": "1692194275.529829",
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jai",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-19/5760630415462_c0b7c77ec5365f383479_72.jpg",
+      "first_name": "Sahil",
+      "real_name": "Sahil Jain",
+      "display_name": "Sahil Jain",
+      "team": "T08LHBDJT",
+      "name": "sjain705",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7a23c60a-ff4e-4841-9d63-37f1b37d2123",
+    "type": "message",
+    "user": "U05JF1X7NE8",
+    "text": "I'm in sort of a similar situation and have been following the syllabus up to week 3. Everything is doable on my own.",
+    "ts": "1692223552.644179",
+    "thread_ts": "1692194275.529829",
+    "parent_user_id": "U05M25BMFCP",
+    "team": "T08LHBDJT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U05MDLSD7BM"
+        ]
+      },
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U05M25BMFCP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nEV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm in sort of a similar situation and have been following the syllabus up to week 3. Everything is doable on my own."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-08-16/5777314613104_15d8ad73ae9765c1b1c4_72.jpg",
+      "first_name": "Bo",
+      "real_name": "Bo",
+      "display_name": "Bo",
+      "team": "T08LHBDJT",
+      "name": "byang364",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

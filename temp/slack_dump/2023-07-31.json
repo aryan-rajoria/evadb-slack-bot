@@ -1,0 +1,308 @@
+[
+  {
+    "type": "message",
+    "user": "URCKUUA4E",
+    "text": "\u003c@URCKUUA4E\u003e has joined the channel",
+    "ts": "1690777548.175929",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/cb2a63dad00ada8d5842969138608c87.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Viv",
+      "real_name": "Viv",
+      "display_name": "Vivek",
+      "team": "T08LHBDJT",
+      "name": "vnagarajan33",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U04KMA2N77A",
+    "text": "\u003c@U04KMA2N77A\u003e has left the channel",
+    "ts": "1690794670.828109",
+    "subtype": "channel_leave",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/369fb110aacc5a5b8ea6e0838ca4500a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+      "first_name": "Adam",
+      "real_name": "Adam Moore",
+      "display_name": "Adam Moore",
+      "team": "T08LHBDJT",
+      "name": "amoore348",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U0167UBHNL9",
+    "text": "\u003c@U0167UBHNL9\u003e has joined the channel",
+    "ts": "1690806504.416719",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/65fec59d2b6073a30574eee9d1eb4cb6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Ray",
+      "real_name": "Ray Waheed",
+      "display_name": "Ray Waheed",
+      "team": "T08LHBDJT",
+      "name": "rwaheed3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05KBMEGUQ6",
+    "text": "\u003c@U05KBMEGUQ6\u003e has joined the channel",
+    "ts": "1690812450.957739",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c81f1a8cb69fb8cc2c23f2ba6bb1821e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Gurkirat",
+      "real_name": "Gurkirat Singh Sekhon",
+      "display_name": "Gurkirat Singh Sekhon",
+      "team": "T08LHBDJT",
+      "name": "gsekhon6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "049df486-d3b6-44f6-8f6e-3b5fd9536980",
+    "type": "message",
+    "user": "U05KBMEGUQ6",
+    "text": "Hi All\nI am planning to take this course upcoming Fall. This will also be my first OMSCS semester.\nIs this course front loadable?",
+    "ts": "1690813648.154559",
+    "thread_ts": "1690813648.154559",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U04K1N4KUGP",
+        "ts": "1690827500.667959"
+      },
+      {
+        "user": "U02LTH62N9F",
+        "ts": "1690853631.991529"
+      },
+      {
+        "user": "U05KBMEGUQ6",
+        "ts": "1691165149.845189"
+      }
+    ],
+    "latest_reply": "1691165149.845189",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m5g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi All\nI am planning to take this course upcoming Fall. This will also be my first OMSCS semester.\nIs this course front loadable?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c81f1a8cb69fb8cc2c23f2ba6bb1821e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Gurkirat",
+      "real_name": "Gurkirat Singh Sekhon",
+      "display_name": "Gurkirat Singh Sekhon",
+      "team": "T08LHBDJT",
+      "name": "gsekhon6",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U02LTH62N9F",
+      "U04K1N4KUGP",
+      "U05KBMEGUQ6"
+    ]
+  },
+  {
+    "client_msg_id": "e5161214-c6a8-41de-92cf-8d92ce44f3b5",
+    "type": "message",
+    "user": "UHFB6GW2H",
+    "text": "The quiet period has now ended.  Please keep in mind there are extensions, and no discussions of the material on the exam may take place.",
+    "ts": "1690815666.356409",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "INSln",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The quiet period has now ended.  Please keep in mind there are extensions, and no discussions of the material on the exam may take place."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2019-08-15/727510997232_49e2047ad580bfc130cc_72.jpg",
+      "first_name": "Barbara",
+      "real_name": "Barbara Noble",
+      "display_name": "Barbara",
+      "team": "T08LHBDJT",
+      "name": "bnoble",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DB31C218-95A2-43DD-B0A5-73262CFBBCFF",
+    "type": "message",
+    "user": "U04K1N4KUGP",
+    "text": "Get hands on with numpy pandas and python ",
+    "ts": "1690827500.667959",
+    "thread_ts": "1690813648.154559",
+    "parent_user_id": "U05KBMEGUQ6",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wfQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Get hands on with numpy pandas and python "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-01-31/4717415663638_359fcf973e7bc038e33b_72.png",
+      "first_name": "Akhil",
+      "real_name": "Akhil kumar",
+      "display_name": "Akhil kumar",
+      "team": "T08LHBDJT",
+      "name": "asambar3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U04DTFPUNB1",
+    "text": "\u003c@U04DTFPUNB1\u003e has joined the channel",
+    "ts": "1690835984.659799",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d7c567acbd1eb7b8b7d14d51e68ae3de.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Anand",
+      "real_name": "Anand Rao",
+      "display_name": "Anand (Andy) Rao",
+      "team": "T08LHBDJT",
+      "name": "arao389",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

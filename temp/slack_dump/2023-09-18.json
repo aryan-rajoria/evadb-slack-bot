@@ -1,0 +1,156 @@
+[
+  {
+    "client_msg_id": "18ca8997-a675-4664-af03-7607c1f37598",
+    "type": "message",
+    "user": "U05JD8YPPML",
+    "text": "Usage of DT in Finance (more broader use cases):\n\u003chttps://www.investopedia.com/articles/financial-theory/11/decisions-trees-finance.asp\u003e",
+    "ts": "1695033409.923599",
+    "thread_ts": "1695033409.923599",
+    "attachments": [
+      {
+        "fallback": "Investopedia: Using Decision Trees in Finance",
+        "id": 1,
+        "title": "Using Decision Trees in Finance",
+        "title_link": "https://www.investopedia.com/articles/financial-theory/11/decisions-trees-finance.asp",
+        "text": "Decision trees are a major tool in corporate finance. Discover how binomial trees play an integral role in the pricing of interest rates.",
+        "thumb_url": "https://www.investopedia.com/thmb/RaUR0tVfVGc8-KYrQzXnfhnhMtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1160898563-8d74af404aa04ba8a6c567207fc951a9.jpg",
+        "service_name": "Investopedia",
+        "service_icon": "https://www.investopedia.com/apple-touch-icon-57x57.png",
+        "from_url": "https://www.investopedia.com/articles/financial-theory/11/decisions-trees-finance.asp",
+        "original_url": "https://www.investopedia.com/articles/financial-theory/11/decisions-trees-finance.asp",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05M5PD1UQP",
+        "ts": "1695058540.998939"
+      }
+    ],
+    "latest_reply": "1695058540.998939",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MMP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Usage of DT in Finance (more broader use cases):\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.investopedia.com/articles/financial-theory/11/decisions-trees-finance.asp",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-25/5644609259777_ca59b0db8c52b345a2ab_72.png",
+      "first_name": "kartik",
+      "real_name": "kartik sharma",
+      "display_name": "kartik sharma",
+      "team": "T08LHBDJT",
+      "name": "ksharma353",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05M5PD1UQP"
+    ]
+  },
+  {
+    "client_msg_id": "7b764730-795f-458a-a131-b8bef483c705",
+    "type": "message",
+    "user": "U05M5PD1UQP",
+    "text": "It doesn't seem to describe any real-world uses of decision trees, and definitely not the sort of learned decision trees that we're building in P3.  It's more a list of things that can be thought of in terms of a decision tree.",
+    "ts": "1695058540.998939",
+    "thread_ts": "1695033409.923599",
+    "parent_user_id": "U05JD8YPPML",
+    "team": "T08LHBDJT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O9fXV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It doesn't seem to describe any real-world uses of decision trees, and definitely not the sort of learned decision trees that we're building in P3.  It's more a list of things that can be thought of in terms of a decision tree."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T08LHBDJT",
+    "source_team": "T08LHBDJT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/46b9b0e04297311fa6e276d7fd3a1029.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Edward",
+      "real_name": "Edward Carter",
+      "display_name": "Edward Carter",
+      "team": "T08LHBDJT",
+      "name": "ecarter63",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U05SKNMMQF2",
+    "text": "\u003c@U05SKNMMQF2\u003e has joined the channel",
+    "ts": "1695063498.219889",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1e2f9c726705e1f0cd24b4c7538883f2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "Joy",
+      "real_name": "Joy Arulraj",
+      "display_name": "Joy Arulraj",
+      "team": "T08LHBDJT",
+      "name": "arulraj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
