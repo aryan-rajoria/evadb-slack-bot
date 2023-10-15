@@ -14,12 +14,15 @@
 # limitations under the License.
 import numpy as np
 import pandas as pd
+import hashlib
 
 from evadb.catalog.catalog_type import NdArrayType
 from evadb.functions.abstract.abstract_function import AbstractFunction
 from evadb.functions.decorators.decorators import forward, setup
 from evadb.functions.decorators.io_descriptors.data_types import PandasDataframe
 from evadb.functions.gpu_compatible import GPUCompatible
+
+import openai
 
 
 def try_to_import_sentence_transformers():
@@ -66,11 +69,26 @@ class SentenceTransformerFeatureExtractor(AbstractFunction, GPUCompatible):
         ],
     )
     def forward(self, df: pd.DataFrame) -> pd.DataFrame:
-        def _forward(row: pd.Series) -> np.ndarray:
-            data = row
-            embedded_list = self.model.encode(data)
-            return embedded_list
+        # def _forward(row: pd.Series) -> np.ndarray:
+        #     data = row
+        #     embedded_list = self.model.encode(data)
+        #     return embedded_list
 
-        ret = pd.DataFrame()
-        ret["features"] = df.apply(_forward, axis=1)
+        # ret = pd.DataFrame()
+        # ret["features"] = df.apply(_forward, axis=1)
+
+        def get_embedding(text, model="text-embedding-ada-002"):
+            text = text.replace("\n", " ")
+            x = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
+            return x
+
+        # ret = df.apply(lambda x: get_embedding(x[0], model='text-embedding-ada-002'))
+        ret = pd.DataFrame(columns=['features'])
+        output_list = []
+        for i in range(len(df)):
+            r = df.iloc[i][0]
+            x = get_embedding(r)
+            output_list.append(x)
+        valid_path = f"{hashlib.sha256(df.iloc[0][0]).hexdigest()}"
+        ret.to_csv(f'oai_e_f/{valid_path}', index=False)
         return ret

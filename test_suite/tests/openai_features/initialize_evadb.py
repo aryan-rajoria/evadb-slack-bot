@@ -24,3 +24,6 @@ def build_index(cursor):
         USING FAISS
     """
     ).df()
+
+
+#write a function to calc sum of array
