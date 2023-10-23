@@ -1,3 +1,0 @@
-1st used orca mini model:
-    result:
-        - the model hallucinated and gave 12th november as the answer

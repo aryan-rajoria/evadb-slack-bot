@@ -11,7 +11,7 @@ def create_feature_extractor(cursor):
 # load Data into evadb
 def load_data(cursor):
     try:
-        cursor.query("""LOAD PDF "../../assets/*.pdf" INTO PT""").df()
+        cursor.query("""LOAD PDF "../../../assets/*.pdf" INTO PT""").df()
     except Exception:
         return False
     return True

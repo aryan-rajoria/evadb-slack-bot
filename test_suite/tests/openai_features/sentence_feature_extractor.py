@@ -15,6 +15,8 @@
 import numpy as np
 import pandas as pd
 import hashlib
+import os
+from ast import literal_eval
 
 from evadb.catalog.catalog_type import NdArrayType
 from evadb.functions.abstract.abstract_function import AbstractFunction
@@ -23,6 +25,7 @@ from evadb.functions.decorators.io_descriptors.data_types import PandasDataframe
 from evadb.functions.gpu_compatible import GPUCompatible
 
 import openai
+from time import sleep
 
 
 def try_to_import_sentence_transformers():
@@ -42,7 +45,7 @@ from sentence_transformers import SentenceTransformer  # noqa: E402
 class SentenceTransformerFeatureExtractor(AbstractFunction, GPUCompatible):
     @setup(cacheable=False, function_type="FeatureExtraction", batchable=False)
     def setup(self):
-        self.model = SentenceTransformer("all-MiniLM-L6-v2")
+        self.model = SentenceTransformer("all-mpnet-base-v2")
 
     def to_device(self, device: str) -> GPUCompatible:
         self.model = self.model.to(device)
@@ -81,14 +84,22 @@ class SentenceTransformerFeatureExtractor(AbstractFunction, GPUCompatible):
             text = text.replace("\n", " ")
             x = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
             return x
+        
+        def _forward(row: pd.Series) -> np.ndarray:
+            valid_path = f"oai_e_f/{hashlib.sha256(row[row.index[0]].encode()).hexdigest()}"
+            x = None
+            if os.path.exists(valid_path):
+                x = np.load(valid_path)
+                print("loaded")
+            else:
+                x = get_embedding(row[row.index[0]])
+                # rate limit on openai api
+                sleep(21)
+                x = np.asarray(x).reshape(1,-1)
+                np.save(valid_path, x)
+            return x
 
-        # ret = df.apply(lambda x: get_embedding(x[0], model='text-embedding-ada-002'))
-        ret = pd.DataFrame(columns=['features'])
-        output_list = []
-        for i in range(len(df)):
-            r = df.iloc[i][0]
-            x = get_embedding(r)
-            output_list.append(x)
-        valid_path = f"{hashlib.sha256(df.iloc[0][0]).hexdigest()}"
-        ret.to_csv(f'oai_e_f/{valid_path}', index=False)
+        ret = pd.DataFrame()
+        ret['features'] = df.apply(_forward, axis=1)
+        
         return ret

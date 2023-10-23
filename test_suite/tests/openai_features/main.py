@@ -16,15 +16,18 @@ def initialize_evadb():
         c = evadb.connect().cursor()
         create_feature_extractor(c)
         load_data(c)
+
+        print("Number of queries in PT: ",c.query("SELECT * FROM PT;").df().shape)
+
         build_index(c)
         return c
 
 list_of_queries = [
     # direct question-answers
         # dates and locations
-    "Where is the top gold event?",
-    # "When was their a race?",
-    # "when is the semester going to start?",
+    "Where is the top golf event?",
+    "When was their a race?",
+    "when is the semester going to start?",
     "when is the fees due?",
     "when is the pumpkin craving event?",
     # recommendations questions
@@ -34,7 +37,7 @@ list_of_queries = [
     "what is a good place to park for the OMSCS event?",
     # Abbrevations testing
     # "what is the workload for ML4T course?",
-    "What is the workload for CPSS course?",
+    # "What is the workload for CPSS course?",
     # Knowledge questions
     "what are some events that are going to happen soon?",
         # adding previous queries the chatbot did good on
@@ -61,9 +64,9 @@ def build_kb(cursor, query):
     try:
         r = cursor.query(sq).df()
         with open('kb.txt', 'a') as f:
-            w = r["pt.data"].str.cat(sep="\n\t")
+            w = r["data"].str.cat(sep="\n\t")
             f.write(f"""Knowledge body for "{query}" is:\n\t{w};\n""")
-        kb = r['pt.data'].str.cat(sep="; ")
+        kb = r['data'].str.cat(sep="; ")
         # TODO: work on references
         return kb
     except Exception as e:
@@ -105,12 +108,17 @@ def main(query):
     res = gpt4all_respond(p)
     return res
 
+#################################################################
+################## Running code #################################
+#################################################################
+
+c = initialize_evadb()
 for i in list_of_queries:
     # res = main(i)
-    c = initialize_evadb()
     kb = build_kb(c, i)
     if kb==None:
         break
-    # with open("kb.txt", 'a') as f:
-    #     f.write(f"Output generated: {res}\n\n{'-'*10}\n\n")
+    with open("kb.txt", 'a') as f:
+        f.write(f"Query: {i}")
+        f.write(f"Output generated: {kb}\n\n{'-'*10}\n\n")
     

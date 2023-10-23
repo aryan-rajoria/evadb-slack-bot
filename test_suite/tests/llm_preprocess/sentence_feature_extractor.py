@@ -39,7 +39,7 @@ from sentence_transformers import SentenceTransformer  # noqa: E402
 class SentenceTransformerFeatureExtractor(AbstractFunction, GPUCompatible):
     @setup(cacheable=False, function_type="FeatureExtraction", batchable=False)
     def setup(self):
-        self.model = SentenceTransformer("all-MiniLM-L6-v2")
+        self.model = SentenceTransformer("multi-qa-mpnet-base-dot-v1")
 
     def to_device(self, device: str) -> GPUCompatible:
         self.model = self.model.to(device)

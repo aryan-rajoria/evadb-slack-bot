@@ -1,0 +1,61 @@
+############################### All mini l6 ###################
+Prompt is Where is the top gold event?
+The Pumpkin Craving Event will be held on October 31st, so mark your calendars and don't forget to bringyour appetite!
+
+The Top Gold event will take place at Top Golf in Alpharetta from 11 AM to 12 PM on November 13, 2022.
+The tuition and fee payment deadline for August 28 by 4:00pm ET. Some AI/ML clubs that you canjoin include Interactive Intelligence Club, Artificial Intelligence Society, Machine Learning Club, and Data ScienceClub.
+There are no specific courses that students cannot count towards their MSCS degree, but certain courses may be more challenging than others. It is recommended to consult with an academic advisor for guidance on course selection and planning.
+There are several options near Stone Mountain that serve steak and offer good deals. Here are three suggestions based on user reviews and distance from the trailhead:1) Outback Steakhouse (<https://www.outbacksteakhouses.com/locations/ga/stone-mountain>) - 9 minute drive from trail2) Texas Roadhouse (<https://texasroadhouse.com/location/stones-mountain/>) - 10 minutes3) Longhorn Steakhouse (<https://www.longhornsteakhouse.com/locations/ga/stone-mountain>) - 14 minute drive from trailAll of these restaurants offer a variety of steak options and often have deals or promotions available. You can check their websites for more information on current offers.
+There are several parking options available near the OMSCS event location. The closest and most convenient option would be the paid parking deck located on Monroe Drive, which provides quick access to the park. Additionally, there are limited free parking spots available on 10th Street. If those options do not work out, you could try parking at one of the nearby restaurants or in a metered spot along the streets surrounding the event location. Alternatively, taking MARTA would be another good option as it is conveniently located near the OMSCS event venue.
+The workload for CPSS course is not mentioned in the provided documents.
+According to the provided documents, there will be an event happening tomorrow. Additionally, there are two upcoming events in December 2022 and January 2023 with final dates mentioned.
+1) The OMSCS program is a fully online master's degree in computer science offered by Georgia Tech. 2) Students must complete 30 credit hours of coursework, including six core courses and four electives. 3) Applicants are required to have a bachelor's degree in computer science or a related field, as well as experience in programming and mathematics.
+To do well in a computer science or engineering program, it is essential for students to have strong foundations in mathematics and logic. They should also be able to think critically and creatively when solving problems. Additionally, students should develop good coding practices such as writing clean, modular code that can be easily maintained and updated. It's also important for students to work collaboratively with others and communicate effectively their ideas and solutions.
+
+
+################################### multi-qa-mpnet-base-dot-v1 ##################
+
+Prompt is when is the pumpkin craving event?
+We found a document that mentions "pumpkin craving" and "event." However, it does not specify when the event takes place.
+
+Prompt is Where is the top gold event?
+There are no documents that provide information about a "top gold event".
+
+
+Prompt is when is the fees due?what are some AI/ML clubs to join?
+Sorry, we didn't find relevant sources for this question.
+
+
+Prompt is what are some courses that are very difficult?
+Based on the provided documents, it appears that there may be certain courses within the MSCS program that students may find challenging or difficult to complete. However, without further information about specific course titles and requirements, it is unclear which courses might fall into this category.
+
+
+Prompt is what are some nearby restaurants to eat steak with good offers?
+Based on the provided documents, it seems that there is a suggestion for food in the Blue Ridge area. However, we did not find any relevant sources to answer your question about nearby restaurants to eat steak with good offers.
+
+
+Prompt is what is a good place to park for the OMSCS event?
+Based on the provided documents, there are no specific locations mentioned that would indicate where to park for an OMSCS event. However, if more information about the location of the event becomes available, I can provide additional assistance.
+
+
+Prompt is What is the workload for CPSS course?
+The workload for CPSS course is less than 10 hours.
+
+
+Prompt is what are some events that are going to happen soon?
+According to the provided documents, there is an event scheduled on a specific date which is not mentioned in the given information. However, it seems like there will be other events happening in the future as well but no further details have been provided about them.
+
+
+Prompt is What are the top three things I should know about the OMSCS program?
+The OMSCS program is an online master's degree in computer science offered by Georgia Tech, it is accredited and expected to be completed through the "Course" option.
+
+
+Prompt is how can I do well in the program?
+To do well in your program, it is recommended that you follow these steps:
+1. Review and understand the course requirements for your program.
+2. Develop a study schedule to ensure you are completing all required courses on time.
+3. Seek academic support if needed by utilizing tutoring services or attending office hours with professors.
+4. Stay organized and manage your time effectively to balance work, school, and personal responsibilities. 
+5. Participate in extracurricular activities related to your program of study to gain practical experience and make connections within the industry.
+
+
